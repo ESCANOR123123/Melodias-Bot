@@ -1,12 +1,9 @@
 /*
-❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
-❌     🔵ESTA BASE FOI CRIADA POR MHANKBARBAR 🔵     ❌
-❌     🔴E TOTALMENTE TRADUZIDA POR SKILLER 🔴           ❌
-❌     🔵QUANDO USA-LA SEMPRE DEIXAR OS CRÉDITOS 🔵❌
-❌     💎  © *Copyright © by SkillerOfc-Mhankbarbar*              ❌
-❌     💎  Youtube = https://youtube.com/c/SkillerOfc             ❌
-❌     💎  contatos = wa.me/558892594715                              ❌
-❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
+░▒▓█►─═ᎷᎬᏝᎾᎠᎨᎯᏕ═─◄█▓▒░
+๖ۣۜM๖ۣۜE๖ۣۜL๖ۣۜO๖ۣۜD๖ۣۜI๖ۣۜA๖ۣۜS๖ۣۜB๖ۣۜO๖ۣۜT๖ۣۜV1
+Ｃｏｎｔａｃｔｏ: +54 387 479-7240
+ϟᏨᏒᎬᎯᎠᎾᏒϟ: ESCANOR👌🗡
+░▒▓█►─═ᎷᎬᏝᎾᎠᎨᎯᏕ═─◄█▓▒░
 */
 const {
 	MessageOptions,
